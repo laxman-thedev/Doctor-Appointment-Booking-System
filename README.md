@@ -2,7 +2,7 @@
 
 MediBook is a web application designed to simplify the process of booking and managing doctor appointments. This repository contains the full-stack code for the system, which is divided into three main components: a client-side application for users, an admin panel, and a backend server to handle all business logic and data.
 
-## 🌟 Features
+##  Features
 
 - **User-friendly interface**: Intuitive and easy-to-navigate design for patients to find and book appointments
 - **Doctor Profiles**: Detailed profiles for each doctor, including their specialty, experience, and availability
@@ -12,7 +12,7 @@ MediBook is a web application designed to simplify the process of booking and ma
 - **Payment Integration**: Secure online payment options for booking appointments
 - **AI-Powered Doctor Bio Generation**: Admins can automatically generate professional doctor bios using AI based on name, specialty, education, and experience
 
-## 📁 Project Structure
+## Project Structure
 
 The repository is organized into three main folders:
 
@@ -23,7 +23,7 @@ medibook/
 └── server/          # Back-end code for the API, database, and server-side logic
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - **React**: A JavaScript library for building user interfaces
@@ -83,11 +83,11 @@ To get the project up and running on your local machine, please refer to the ind
    # Start admin panel (from admin directory)
    npm run dev
    ```
-## 🎥 Demo
+##  Demo
 
 Explore the live demos of **MediBook** below:
 
-- **🩺 Client App (Patient Side)**  
+- ** Client App (Patient Side)**  
   [👉 Live Demo](https://medibook-client.vercel.app)  
   **Login Credentials:**  
 Email: test@test.in <br>
@@ -95,7 +95,7 @@ Password: testtest
 
 
 
-- **👨‍⚕️ Admin Panel (Doctor & Admin Side)**  
+- ** Admin Panel (Doctor & Admin Side)**  
 [👉 Live Demo](https://medibook-admin.vercel.app)  
 **Doctor Login Credentials:**  
 Email: richard.james@medmail.com <br>
